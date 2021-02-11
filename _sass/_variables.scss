@@ -15,10 +15,15 @@ $lightGray: #eee;
 $white: #fff;
 
 // Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$georgia: Georgia, serif;
-$baskerville: Baskerville, serif;
+//$helvetica: Helvetica, Arial, sans-serif;
+//$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+//$georgia: Georgia, serif;
+$baskerville: Baskerville, "Times New Roman", Times, serif;
+$garamond: Garamond, "Hoefler Text", ‘Times New Roman’, Times, serif;
+$didot: Didot, serif;
+$sabon: Sabon, serif;
+$mrseaves: Mrs Eaves, serif;
+$minion: Minion, serif;
 
 // Mobile breakpoints
 @mixin mobile {
