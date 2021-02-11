@@ -25,6 +25,9 @@ $sabon: Sabon, serif;
 $mrseaves: Mrs Eaves, serif;
 $minion: Minion, serif;
 
+//Chosen font family
+$customfontfam: $garamond;
+
 // Mobile breakpoints
 @mixin mobile {
   @media screen and (max-width: 640px) {
