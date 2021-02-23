@@ -26,7 +26,7 @@ $mrseaves: Mrs Eaves, "Comic Sans MS";
 $minion: Minion, "Comic Sans MS";
 
 //Chosen font family
-$customfontfam: $didot;
+$customfontfam: var($didot);
 
 // Mobile breakpoints
 @mixin mobile {
